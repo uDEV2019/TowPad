@@ -151,7 +151,7 @@
     <value>Standardschriftart</value>
   </data>
   <data name="DocumentPaddingSettingName" xml:space="preserve">
-    <value>Absatz</value>
+    <value>Polster zum Fensterrahmen für Dokumentenansicht</value>
   </data>
   <data name="EditorHeaderName" xml:space="preserve">
     <value>Editor</value>
